@@ -1,0 +1,13 @@
+***
+*** Developer Notes
+***
+
+[Icons]
+Struts=http://publib.boulder.ibm.com/infocenter/radhelp/v6r0m1/index.jsp?topic=%2Fcom.ibm.etools.struts.doc%2Ftopics%2Frstruse0003.html
+Eclipse=http://help.eclipse.org/helios/index.jsp?topic=/org.eclipse.jdt.doc.user/reference/ref-icons.htm
+
+[ASCII Art]
+The following site was used to generate the ASCII art contained w/in
+(some of) this applications configuration and property files...
+	+ URL=http://patorjk.com/software/taag/
+	+ Font=Big
